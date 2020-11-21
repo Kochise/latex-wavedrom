@@ -56,7 +56,7 @@ In your document :
 
 ## options
 
-Not much available, beside the type selection.
+Not much available.
 
 ## limitations
 
